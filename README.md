@@ -2,9 +2,10 @@
 
 <div align='center'>
   <img src='https://i.pinimg.com/564x/1d/0f/5e/1d0f5e8d7b707f529b4ed3dd12d02d90.jpg' width=250px>
+  <h3>포기하지 않는 주니어 개발자 'Muaga'입니다👩‍💻</h3>
+  <strong>E-mail</strong> : muagaa@kakao.com
   <br>
-  <br>
-  <strong>포기하지 않는 주니어 개발자 'Muaga'입니다👩‍💻</strong>
+  <strong>Blog</strong> : https://blog.naver.com/muaggg
 </div>
 <br>
 <br>
@@ -57,6 +58,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
+<br>
 
 
 
