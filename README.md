@@ -33,7 +33,6 @@
 <h3 align='center'>📂Databases📂</h3>
 <div align='center'>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/>
 </div>
 <h3 align='center'>🛠️IDE & Editors🛠️</h3>
 <div align='center'>
